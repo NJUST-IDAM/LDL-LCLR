@@ -2,7 +2,8 @@
 
 Publication
 --
-Code accompanying the paper **Label Distribution Learning with Label Correlations via Low-Rank Approxlmation**
+Code accompanying the paper **Label Distribution Learning with Label Correlations via Low-Rank Approxlmation**. IJCAI 2019.
+https://doi.org/10.24963/ijcai.2019/461
 
 DataSet
 --
